@@ -1,5 +1,5 @@
 ---
-title: "Nachos: The Invented Tradition"
+title: "Vietnamese Labora and Work Experience"
 layout: scrollstory
 header-image: images/figure_1.jpg
 thumbnail: images/figure_1.jpg
