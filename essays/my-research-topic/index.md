@@ -22,7 +22,11 @@ Another important program to South East Asian refugees in New Mexico is the prog
 
 ## Why New Mexico?
 
-The Indochina Migration and Refugee Assistance Act of 1975 (IMRAA) had an initiative that had many Vietnamese refugees move to different places throughout the United States.
+The Indochina Migration and Refugee Assistance Act of 1975 (IMRAA) had an initiative that had many Vietnamese refugees move to different places throughout the United States. One of those places was New Mexico. While not having a lot in common with Vietnam geographically, New Mexico did have some things that made it a good location for Vietnamese refugees.
+
+During the Vietnam War, many Catholics moved from the Communist controlled North, to the Southern parts of the country that were pro-Catholic. After the United States pulled its troops out of Vietnam, many South Vietnamese people fled to other countries. In those groups of people who left the South, many were Catholic. New Mexico has a high population of Catholic people and churches that were willing to help with getting Vietnamese people accustomed to the U.S.
+
+Not only were many Vietnamese refugees religiously similar to the people who lived in NM during this time, New Mexico was also developing better infrastructure. Not only was there space for refugees in New Mexico, the United States government also planned to have communities of Vietnamese people in all 50 states to avoid overcrowding places like California and Texas. While these groups were planned to have groups across all states, one reason Vietnamese people had to be so spread out was to avoid having them be condensed and prevent ghettoism.
 
 
 ## First Refugee Arrivals 
