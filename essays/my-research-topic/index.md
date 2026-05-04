@@ -31,31 +31,14 @@ Not only were many Vietnamese refugees religiously similar to the people who liv
 
 ## First Refugee Arrivals 
 
-{% capture chile_nm_text %}
-By the 18th and 19th centuries, chiles were so central to New Mexican cuisine that they weren't just a spice—they were an identity marker. You could tell where someone was from by how they prepared chiles, what variety they grew, when they harvested.
+Vietnamese refugees fleeing war and the Communist regime after the Vietnam War first arrived in New Mexico immediately after the fall of Saigon. In 1975, most of those who fled Vietnam and got to New Mexico were highly skilled workers or people who were close to the United States military. They got to New Mexico before other Vietnamese people because of access to planes, helicopters, and boats. 
 
-Red versus green became almost a political and cultural statement. Families had chile-growing traditions stretching back generations. Towns developed reputations for particular varieties. The annual chile harvest was (and still is) treated with ceremonial importance.
-
-When New Mexico became a U.S. state in 1912, one of its first instincts was to assert its uniqueness through food. Chile festivals emerged. Chile-growing competitions began. The chile became a symbol of regional pride—fiercer and more protective than almost any other ingredient anywhere.
-{% endcapture %}
-
-{% include images/figure-wrap.html
-  image-path="images/carousel_1.jpg"
-  image-position="right"
-  image-width="45%"
-  caption="The iconic red chile ristras of Northern New Mexico—strands of dried chiles hung to cure and age."
-  text=chile_nm_text
-%}
+After the initial wave of Vietnamese refugees across the United States, New Mexico began to recieve more refugees in the 1980's. Many of these refugees are referred to as "boat people" because they escaped Vietnam through boats and made their way to the United States through less orthodox methods. The journey to the United States was difficult as many refugees piled onto boats in search of a safer life than Vietnam.
 
 
 ## Vietnamese Life in New Mexico
 
-{% include typography/pullquote.html text="\"The heat of a chile isn't just a flavor sensation. It's a physical experience that changes how we perceive food, how we gather, how we bond. Sharing hot food creates a kind of intimacy that bland food never could.\"" %}
-
-What makes chiles remarkable isn't just their flavor, but their heat—the capsaicin that creates that burning sensation. This isn't taste in the traditional sense; it's pain. We've evolved to eat chiles despite the pain, even to crave it.
-
-There's psychology in this. The shared experience of eating something hot—the sweating, the laughing, the communal endurance—creates bonds. Chile-eating contests, chile-eating challenges, families bonding over who can handle the hottest salsa: this is social behavior built on a plant that literally tests your limits.
-
+Once these Vietnamese refugees arrived in New Mexico, they were offered adult language classes to learn how to communicate in English. Most of these classes taught "survival English" which was only a few basic phrases for rough communication between Vietnamese refugees and English speaking people.
 
 ## Health Issues and Challenges
 
