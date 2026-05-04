@@ -18,7 +18,7 @@ After the fall of Saigon, many Vietnamese refugees and their families fled to ot
 
 One program that was very popular amongst all South East Asian refugees (Cambodian, Hmong, Laotian, Vietnamese) were adult language classes. The aim for these classes was to help refugee adults learn how to speak English. Although these classes were for refugee adults, many of these classes were inaccessible and small in scope. These classes were primarily focused on "survival English." This survival English were very basic sentences and phrases as well as minimal reading skills. 
 
-Another important program to South East Asian refugees in New Mexico is the program that caused many of them to move to New Mexico in the first place. The Indochina Migration and Refugee Assistance Act (IMRAA) of 1975 was one of the causes for why many Vietnamese refugees were in New Mexico. Besides helping refugees with basic needs like housing, clothing, and job placement, the IMRAA, also had a resettlement iniative that had around 3,000 Vietnamese refugees move to New Mexico.
+Another important program to South East Asian refugees in New Mexico is the program that caused many of them to move to New Mexico in the first place. The Indochina Migration and Refugee Assistance Act (IMRAA) of 1975 was one of the causes for why many Vietnamese refugees were in New Mexico. Besides helping refugees with basic needs like housing, clothing, and job placement, the IMRAA, also had a resettlement iniative that led to around 3,000 Vietnamese refugees moving to New Mexico.
 
 ## Why New Mexico?
 
