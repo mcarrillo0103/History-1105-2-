@@ -1,9 +1,9 @@
 ---
-title: "Chiles: The Heat That Built the Southwest"
+title: "South East Asian Refugee Experience"
 layout: scrollstory
 header-image: images/figure_1.jpg
 thumbnail: images/figure_1.jpg
-summary: How a Mesoamerican crop became the defining flavor of the American Southwest—and why one plant changed everything.
+summary: How Vietnam War refugees adjust to life in New Mexico.
 ---
 
 # Chiles: The Heat That Built the Southwest

@@ -1,5 +1,5 @@
 ---
-title: "My Research Topic"
+title: "Vietnamese Refugees in New Mexico: Introduction"
 layout: scrollstory
 header-image: images/Vietnamese-People-Santa-Fe.jpg
 thumbnail: images/vietnamese-santafe-2.jpeg
@@ -14,24 +14,11 @@ The images of the United States losing this war with a much smaller nation is us
 
 ## Programs For Southeast Asian Refugees
 
-{% capture chile_origins_text %}
-Archaeological evidence suggests that wild chiles were used by Mesoamerican peoples for thousands of years before domestication. Unlike staple crops like maize or beans (which were also domesticated), chiles were initially valued for medicinal and ceremonial purposes, not just food.
+After the fall of Saigon, many Vietnamese refugees and their families fled to other countries for safety. From Thailand, Malaysia, and the Phillipines, to Canada, Australia, and the United States, Vietnamese refugees spread around the world. The United States had programs that would adjust Vietnamese people to life there. 
 
-The Aztecs called them *chilli*—a word that would travel the world. They appeared in codices as sacred plants, used in rituals and as offerings. But they were also used in cooking, in medicine, as currency. Chiles were woven into the economic and spiritual fabric of pre-Columbian civilizations.
-{% endcapture %}
+One program that was very popular amongst all South East Asian refugees (Cambodian, Hmong, Laotian, Vietnamese) were adult language classes. The aim for these classes was to help refugee adults learn how to speak English. Although these classes were for refugee adults, many of these classes were inaccessible and small in scope. These classes were primarily focused on "survival English." This survival English were very basic sentences and phrases as well as minimal reading skills. 
 
-{% include images/figure-wrap.html
-  image-path="images/figure_1.jpg"
-  image-position="left"
-  image-width="48%"
-  caption="Archaeological evidence suggests chile domestication began around 7500 BCE in Mexico—making it one of the oldest cultivated crops in the Americas."
-  text=chile_origins_text
-%}
-
-{% include typography/pullquote.html text="\"When Spanish conquistadors arrived and encountered chiles for the first time, they didn't know what they'd found: the key ingredient that would reshape global cuisine. They just tasted heat and assumed they were finding something like black pepper.\"" %}
-
-When Spanish conquistadors arrived in the 16th century, they encountered chiles and assumed they were a kind of pepper—similar to the peppercorns that had driven medieval trade routes and wars. This mistake—this linguistic confusion—would matter enormously.
-
+Another important program to South East Asian refugees in New Mexico is the program that caused many of them to move to New Mexico in the first place. The Indochina Migration and Refugee Assistance Act (IMRAA) of 1975 was one of the causes for why many Vietnamese refugees were in New Mexico. Besides helping refugees with basic needs like housing, clothing, and job placement, the IMRAA, also had a resettlement iniative that had around 3,000 Vietnamese refugees move to New Mexico.
 
 ## Why New Mexico?
 
