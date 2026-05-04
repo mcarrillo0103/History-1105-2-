@@ -2,8 +2,8 @@
 title: "My Research Topic"
 layout: scrollstory
 header-image: images/Vietnamese-People-Santa-Fe.jpg
-thumbnail: images/figure_1.jpg
-summary: How a Mesoamerican crop became the defining flavor of the American Southwest—and why one plant changed everything.
+thumbnail: images/vietnamese-santafe-2.jpeg
+summary: Overview:How Vietnamese Refugees Made it to New Mexico.
 ---
 
 # The Vietnam War: The "Push Factor"
