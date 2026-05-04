@@ -1,5 +1,5 @@
 ---
-title: "Vietnamese Labora and Work Experience"
+title: "Vietnamese Labor and Work Experience"
 layout: scrollstory
 header-image: images/figure_1.jpg
 thumbnail: images/figure_1.jpg
