@@ -2,7 +2,7 @@
 title: "Vietnamese Labor and Work Experience"
 layout: scrollstory
 header-image: images/vietnamese-red-shirt.jpg
-thumbnail: images/figure_1.jpg
+thumbnail: images/vietnamese-red-shirt-pt2.jpg
 summary:   From border cafe to game-day essential - the brief, contested history of America's most democratic snack. 
 ---
 
