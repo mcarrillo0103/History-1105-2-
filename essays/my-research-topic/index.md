@@ -22,11 +22,7 @@ Another important program to South East Asian refugees in New Mexico is the prog
 
 ## Why New Mexico?
 
-The Spanish brought chiles back to Europe, from Europe to Asia, and eventually chiles spread around the world. Within two centuries of Columbus, chiles were growing in India, Hungary, Korea, Thailand—places that now consider them indigenous, essential, defining.
-
-This is one of history's greatest ironies: the cuisines we think of as authentically Asian, Hungarian, or Indian all depend on a plant from the Americas. Today, more chiles are consumed in Asia than anywhere else on Earth, yet hardly anyone thinks of chiles as "Asian."
-
-The Southwest, however, kept them close. When Spanish settlers began colonizing New Mexico in the late 1500s, they brought cultivated chile varieties with them. These adapted to the high desert climate, the intense sun, the seasonal rains. Over centuries, New Mexico developed its own distinctive chile varieties.
+The Indochina Migration and Refugee Assistance Act of 1975 (IMRAA) had an initiative that had many Vietnamese refugees move to different places throughout the United States.
 
 
 ## First Refugee Arrivals 
