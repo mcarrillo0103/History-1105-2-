@@ -8,19 +8,25 @@ summary:   What working looks like for Vietnamese people and the issues they fac
 
 # Refugee Jobs
 
+When Vietnamese refugees first stepped off the boats onto the United States, the only jobs available for them were manual labor, service industry, or small family businesses. Like is the story with many minority groups, when Vietnamese refugees first arrived on the United States, they only had access to the jobs that people typically did not want/were very labor intensive.
 
+Once the first waves of Vietnamese refugees got adjusted to life in the United States, Vietnamese people began to create shops and businesses that signaled their permanent status in the United States. All across the United States, Vietnamese people began creating restaurants, stores, and salons. These family businesses created security for Vietnamese families across the United States and in New Mexico. 
+
+In New Mexico, Restaurants and salons are the most common businesses that Vietnamese people opened after moving to places like Albuquerque and Santa Fe. Foods like Pho and Banh Mi become common sellers across the state and create successful businesses for Vietnamese families. Beauty and nail salons also create security for Vietnamese families and become important cultural gathering places for Vietnamese women. The popularity of beauty salons create social spaces for Vietnamese women that make it easy to gather information and conduct research.
 
 ## Workplace Culture Building
 
+After the fall of Saigon, many of the Vietnamese people who arrived in the United States were eager to rebuild their lives and create something for themselves and their families. With the background of building up from nothing, Vietnamese refugees were extremely hard working and became known for their reliability and resilience.
 
+Vietnamese people in the United States were not just in a hard place, they were working to survive. Although they were initially only handed low end jobs, Vietnamese people gave it their all to earn a living. Many Vietnamese were still living in camps across the United States and were working hard everyday to begin to etch out a "piece of the pie" and live comfortably in the United States. 
 
-## Health Issues
-
-
+Not only were Vietnamese people hard workers, they brought humility to the work that they did. Many South Vietnamese people who were professionals in Vietnam, abandoned their previous careers to make money to support themselves and their families. This attitude of coming out on top, led to a success based business plan for many Vietnamese business owners.
 
 ## Vietnamese Work Ethic
 
+After experiencing traumatic events in their home country, Vietnamese people came to the United States with a renewed vigor for coming out on top. They understood that they could not get economic security or position themselves for success without working hard. In the pursuit of success, Vietnamese refugees became well-known for their diligence and relentless work ethic.
 
+In some ways, Vietnamese embody the United States ideals. The hard work that Vietnamese refugees put into being successful and creating a good life for themselves and their families lines up well with the old saying: pull yourself up by the bootstraps. Working hard, being invested in achieving success, and creating something from nothing make it obvious why Vietnamese people were able to carve out their own section into society. 
 
 ---
 
