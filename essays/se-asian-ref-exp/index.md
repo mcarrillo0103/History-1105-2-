@@ -38,7 +38,7 @@ In the period immediately after arriving to the United States, many Vietnamese p
 
 Fleeing from Vietnam was traumatic in more ways than just fleeing the violence. Many Vietnamese people hopped on boats, helicopters, or planes without knowing if they would ever see their families again. The trauma that comes with fleeing war and having to begin from zero, had a profound effect on Vietnamese workers. This trauma soon became a refusal to accept tragic circumstances and created this idea of hardworking, relentless Vietnamese people that encouraged other newer refugees to try hard and gain a stable life. 
 
-Vietnamese people were not only hard workers, but they carried themselves with humility and did back breaking work without complaining, because they knew that the only thing they could rely on was their hard work.
+Vietnamese people were not only hard workers, but they carried themselves with humility and did back breaking work without complaining, because they knew that the only thing they could rely on was their hard work. This combination of humility, dilegence, hardwork, and determination kept Vietnamese identity strong thousands of miles away from their home country. This perseverance not only became important for survival, it became cultural preservation and aligned perfectly with the hardworking nature of many of the inhabitants of major cities in New Mexico like Albuquerque and Santa Fe. 
 {% include images/figure.html
   image-path="images/vietnamese-red-dress.jpg"
   class="right"
@@ -46,7 +46,6 @@ Vietnamese people were not only hard workers, but they carried themselves with h
   caption="Vietnamese mother with her daughters."
   alt-text="Describe the image for screen readers"
 %} 
-This combination of humility, dilegence, hardwork, and determination kept Vietnamese identity strong thousands of miles away from their home country. This perseverance not only became important for survival, it became cultural preservation and aligned perfectly with the hardworking nature of many of the inhabitants of major cities in New Mexico like Albuquerque and Santa Fe. 
 
 ## Health Issues
 
