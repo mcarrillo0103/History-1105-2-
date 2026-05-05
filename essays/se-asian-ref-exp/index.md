@@ -14,22 +14,22 @@ Originally, Life in New Mexico for Vietnamese refugees is full of hard work. If 
 
 ## Community Building
 
-Community building went very well for Vietnamese refugees in New Mexico. Vietnamese refugees from different parts of Southern Vietnam, quickly came together in New Mexico and created tight-knit communities that allowed for later Vietnamese refugees to more easily integrate to New Mexican society.  {% include images/figure.html
+Community building went very well for Vietnamese refugees in New Mexico. Vietnamese refugees from different parts of Southern Vietnam, quickly came together in New Mexico and created tight-knit communities that allowed for later Vietnamese refugees to more easily integrate to New Mexican society.This adaptation of life in New Mexico made it possible for Vietnamese refugees to express their culture far away from home.
+ {% include images/figure.html
   image-path="images/Vietname-Festival.jpg"
   class="left"
   width="55%"
   caption="Vietnamese festival in Santa Fe."
   alt-text="Describe the image for screen readers"
-%} This adaptation of life in New Mexico made it possible for Vietnamese refugees to express their culture far away from home.
-
-Vietnamese people would bond over shared experiences in Vietnam and during the war. This keeping together mentality made for a Vietnamese community to quickly develop in New Mexico. Once new Vietnamese people arrived in New Mexico from places like California, they were quickly welcomed and helped with getting a job and finding their families. For many Vietnamese families, it was not uncommon for them to give silverware, plates, and bowls to newly arrived or struggling Vietnamese families. The closeness of the Vietnamese community in places like Albuquerque and Santa Fe allowed for Vietnamese culture to remain alive and well thousands of miles away from home. {% include images/figure.html
+%} 
+Vietnamese people would bond over shared experiences in Vietnam and during the war. This keeping together mentality made for a Vietnamese community to quickly develop in New Mexico. Once new Vietnamese people arrived in New Mexico from places like California, they were quickly welcomed and helped with getting a job and finding their families. For many Vietnamese families, it was not uncommon for them to give silverware, plates, and bowls to newly arrived or struggling Vietnamese families. The closeness of the Vietnamese community in places like Albuquerque and Santa Fe allowed for Vietnamese culture to remain alive and well thousands of miles away from home. 
+{% include images/figure.html
   image-path="images/vietnamese-adobe.jpeg"
   class="right"
   width="60%"
   caption="Vietnamese family coming together for celebration."
   alt-text="Describe the image for screen readers"
 %}
-
 Soon after the arrival of Vietnamese people in the United States, their family owned businesses became a part of Vietnamese social life. In places like beauty salons, Vietnamese women and girls could gather to talk about family issues, living in the United States, and other topics. While these salons existed to make a living for Vietnamese people and their families, they gave Vietnamese women a place to have a good time and catch up with neighbors, friends, or family members.
 
 ## Vietnamese Resilience and Identity
@@ -38,13 +38,15 @@ In the period immediately after arriving to the United States, many Vietnamese p
 
 Fleeing from Vietnam was traumatic in more ways than just fleeing the violence. Many Vietnamese people hopped on boats, helicopters, or planes without knowing if they would ever see their families again. The trauma that comes with fleeing war and having to begin from zero, had a profound effect on Vietnamese workers. This trauma soon became a refusal to accept tragic circumstances and created this idea of hardworking, relentless Vietnamese people that encouraged other newer refugees to try hard and gain a stable life. 
 
-Vietnamese people were not only hard workers, but they carried themselves with humility and did back breaking work without complaining, because they knew that the only thing they could rely on was their hard work. {% include images/figure.html
+Vietnamese people were not only hard workers, but they carried themselves with humility and did back breaking work without complaining, because they knew that the only thing they could rely on was their hard work.
+{% include images/figure.html
   image-path="images/vietnamese-red-dress.jpg"
   class="right"
   width="55%"
   caption="Vietnamese mother with her daughters."
   alt-text="Describe the image for screen readers"
-%} This combination of humility, dilegence, hardwork, and determination kept Vietnamese identity strong thousands of miles away from their home country. This perseverance not only became important for survival, it became cultural preservation and aligned perfectly with the hardworking nature of many of the inhabitants of major cities in New Mexico like Albuquerque and Santa Fe. 
+%} 
+This combination of humility, dilegence, hardwork, and determination kept Vietnamese identity strong thousands of miles away from their home country. This perseverance not only became important for survival, it became cultural preservation and aligned perfectly with the hardworking nature of many of the inhabitants of major cities in New Mexico like Albuquerque and Santa Fe. 
 
 ## Health Issues
 
