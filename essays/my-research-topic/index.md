@@ -9,10 +9,10 @@ summary: How Vietnamese Refugees Made it to New Mexico.
 # The Vietnam War: The "Push Factor"
 
 {% include images/figure.html
-  image-path="assets/images/your-image.jpg"
+  image-path="images/vietnamese-woman-with-kids-vietnam.jpg"
   class="center"
   width="80%"
-  caption="A brief description of what's shown."
+  caption="South Vietnam woman fleeing Vietnam with her kids."
   alt-text="Describe the image for screen readers"
 %}
 
@@ -28,6 +28,14 @@ One program that was very popular amongst all South East Asian refugees (Cambodi
 
 Another important program to South East Asian refugees in New Mexico is the program that caused many of them to move to New Mexico in the first place. The Indochina Migration and Refugee Assistance Act (IMRAA) of 1975 was one of the causes for why many Vietnamese refugees were in New Mexico. Besides helping refugees with basic needs like housing, clothing, and job placement, the IMRAA, also had a resettlement iniative that led to around 3,000 Vietnamese refugees moving to New Mexico.
 
+{% include images/figure.html
+  image-path="images/pigeons-chillin.jpg"
+  class="center"
+  width="80%"
+  caption="Pigeons in front of a Vietnamese restaurant in Santa Fe."
+  alt-text="Describe the image for screen readers"
+%}
+
 ## Why New Mexico?
 
 The Indochina Migration and Refugee Assistance Act of 1975 (IMRAA) had an initiative that had many Vietnamese refugees move to different places throughout the United States. One of those places was New Mexico. While not having a lot in common with Vietnam geographically, New Mexico did have some things that made it a good location for Vietnamese refugees.
@@ -42,7 +50,13 @@ Not only were many Vietnamese refugees religiously similar to the people who liv
 Vietnamese refugees fleeing war and the Communist regime after the Vietnam War first arrived in New Mexico immediately after the fall of Saigon. In 1975, most of those who fled Vietnam and got to New Mexico were highly skilled workers or people who were close to the United States military. They got to New Mexico before other Vietnamese people because of access to planes, helicopters, and boats. 
 
 After the initial wave of Vietnamese refugees across the United States, New Mexico began to recieve more refugees in the 1980's. Many of these refugees are referred to as "boat people" because they escaped Vietnam through boats and made their way to the United States through less orthodox methods. The journey to the United States was difficult as many refugees piled onto boats in search of a safer life than Vietnam.
-
+{% include images/figure.html
+  image-path="images/vietnamese-child.jpg"
+  class="center"
+  width="60%"
+  caption="Vietnamese refugee child in U.S soldier arms."
+  alt-text="Describe the image for screen readers"
+%}
 
 ## Vietnamese Life in New Mexico
 
@@ -58,6 +72,13 @@ Besides mental health, Vietnamese people were also unique in the way that they a
 
 ## Vietnamese Perseverance and Identity
 
+{% include images/figure.html
+  image-path="images/vietnamese-river-boat.jpg"
+  class="center"
+  width="80%"
+  caption="Young Vietnamese woman in a boat."
+  alt-text="Describe the image for screen readers"
+%}
 Overall, Vietnamese refugees are another story of perseverance. From a homeland full of war and violence, to a completely new place with different customs, languages, and experiences, Vietnamese people worked hard to create a new home away from their original one.
 
 Vietnamese people in New Mexico also have an interesting history because New Mexico is not the first location for many people who are looking for a place to live in the United States. New Mexico is different geographically and culturally to Vietnam, and yet thousands of Vietnamese people made it their homes after the fall of Saigon. Their experiences mirror the experiences of other Asian American groups from a hundred years before. Vietnamese people in New Mexico are not just a group of people who come for a better life, they are neighbors, community members, and family members and are a shining beacon of perseverance and cultural preservation.
