@@ -14,14 +14,12 @@ summary: How Vietnam War refugees adjust to life in New Mexico.
 
 
 
-
-
-## Vietnamese Resilience
-
+## Vietnamese Resilience and Identity
 
 
 
 ## Patterns of Asian American Labor
+
 
 
 ---
