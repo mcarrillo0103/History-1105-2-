@@ -20,9 +20,9 @@ Vietnamese people would bond over shared experiences in Vietnam and during the w
 
 {% include images/figure.html
   image-path="images/vietnamese-adobe.jpeg"
-  class="center"
+  class="right"
   width="60%"
-  caption="A brief description of what's shown."
+  caption="Vietnamese family coming together for celebration."
   alt-text="Describe the image for screen readers"
 %}
 
