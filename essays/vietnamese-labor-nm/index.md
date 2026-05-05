@@ -53,4 +53,9 @@ In some ways, Vietnamese embody the United States ideals. The hard work that Vie
 
 ---
 
+**Sources:**
+
+**--https://infoweb-newsbank-com.libproxy.unm.edu/apps/news/document-view?p=NewsBank&t=state%3ANM%21USA%20-%20New%20Mexico&sort=YMD_date%3AA&hide_duplicates=2&fld-base-0=alltext&maxresults=60&val-base-0=vietnamese&docref=news/0EFD11550CEDB8EE**
+
+**https://www.santafenewmexican.com/news/local_news/santa-fes-vietnamese-community-looks-back-50-years-after-fall-of-saigon/article_44930a6a-91f9-4098-9e45-2176351b90aa.html**
 
