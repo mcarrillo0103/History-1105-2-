@@ -87,10 +87,16 @@ Vietnamese people in New Mexico also have an interesting history because New Mex
 
 **Sources:**
 **-https://digitalrepository.unm.edu/cgi/viewcontent.cgi?article=2291&context=nma**
+
 **-Kelly, G. P. (1978). ADULT EDUCATION FOR VIETNAMESE REFUGEES: COMMENTARY ON PLURALISM IN AMERICA. The Journal of Ethnic Studies, 5(4), 55. Retrieved from https://www.proquest.com/scholarly-journals/adult-education-vietnamese-refugees-commentary-on/docview/1300556413/se-2**
-**-https://unmm-my.sharepoint.com/personal/kleong_unm_edu/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fkleong%5Funm%5Fedu%2FDocuments%2FDocuments%2FSpring%202026%2F1105%2FFinal%20project%2FThe%20Range%20of%20Symptoms%20in%20Refugees%20of%20War%5FThe%20New%20Mexico%20Refugee%20Symptom%20Checklist%2D121%20SEA%20NM%2Epdf&parent=%2Fpersonal%2Fkleong%5Funm%5Fedu%2FDocuments%2FDocuments%2FSpring%202026%2F1105%2FFinal%20project**
+
+**-https://unmm-my.sharepoint.com/personal/kleong_unm_edu/_layouts/15/onedrive.aspx id=%2Fpersonal%2Fkleong%5Funm%5Fedu%2FDocuments%2FDocuments%2FSpring%202026%2F1105%2FFinal%20project%2FThe%20Range%20of%20Symptoms%20in%20Refugees%20of%20War%5FThe%20New%20Mexico%20Refugee%20Symptom%20Checklist%2D121%20SEA%20NM%2Epdf&parent=%2Fpersonal%2Fkleong%5Funm%5Fedu%2FDocuments%2FDocuments%2FSpring%202026%2F1105%2FFinal%20project**
+
 **-https://unmm-my.sharepoint.com/personal/kleong_unm_edu/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fkleong%5Funm%5Fedu%2FDocuments%2FDocuments%2FSpring%202026%2F1105%2FFinal%20project%2Flee%2Det%2Dal%2D2014%2Dfeasibility%2Dof%2Dutilizing%2Dethnic%2Dbeauty%2Dsalons%2Dfor%2Dcervical%2Dcancer%2Dscreening%2Deducation%20KV%20in%20NM%2Epdf&parent=%2Fpersonal%2Fkleong%5Funm%5Fedu%2FDocuments%2FDocuments%2FSpring%202026%2F1105%2FFinal%20project**
+
 **-https://infoweb-newsbank-com.libproxy.unm.edu/apps/news/document-view?p=NewsBank&t=state%3ANM%21USA%20-%20New%20Mexico&sort=YMD_date%3AA&hide_duplicates=2&fld-base-0=alltext&maxresults=60&val-base-0=vietnamese&docref=news/0EFD11550CEDB8EE**
 **https://www.santafenewmexican.com/news/local_news/santa-fes-vietnamese-community-looks-back-50-years-after-fall-of-saigon/article_44930a6a-91f9-4098-9e45-2176351b90aa.html**
+
 **-https://unmm-my.sharepoint.com/personal/kleong_unm_edu/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fkleong%5Funm%5Fedu%2FDocuments%2FDocuments%2FSpring%202026%2F1105%2FFinal%20project%2FThe%20Range%20of%20Symptoms%20in%20Refugees%20of%20War%5FThe%20New%20Mexico%20Refugee%20Symptom%20Checklist%2D121%20SEA%20NM%2Epdf&parent=%2Fpersonal%2Fkleong%5Funm%5Fedu%2FDocuments%2FDocuments%2FSpring%202026%2F1105%2FFinal%20project**
+
 **-https://unmm my.sharepoint.com/personal/kleong_unm_edu/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fkleong%5Funm%5Fedu%2FDocuments%2FDocuments%2FSpring%202026%2F1105%2FFinal%20project%2Flee%2Det%2Dal%2D2014%2Dfeasibility%2Dof%2Dutilizing%2Dethnic%2Dbeauty%2Dsalons%2Dfor%2Dcervical%2Dcancer%2Dscreening%2Deducation%20KV%20in%20NM%2Epdf&parent=%2Fpersonal%2Fkleong%5Funm%5Fedu%2FDocuments%2FDocuments%2FSpring%202026%2F1105%2FFinal%20project**
