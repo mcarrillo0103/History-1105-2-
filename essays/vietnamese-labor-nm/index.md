@@ -22,6 +22,15 @@ Vietnamese people in the United States were not just in a hard place, they were 
 
 Not only were Vietnamese people hard workers, they brought humility to the work that they did. Many South Vietnamese people who were professionals in Vietnam, abandoned their previous careers to make money to support themselves and their families. This attitude of coming out on top, led to a success based business plan for many Vietnamese business owners.
 
+## Patterns of Asian American Labor
+
+Throughout United States history, Asian Americans follow a pattern of labor. From Chinese and Japanese in the 19th Century, to Vietnamese refugees after the fall of Saigon Asian Americans are a work force that is needed.
+
+When Chinese workers first arrived in the United States to work on crop fields in Hawaii, mine for gold across the Western United States, or build the transcontinental railroad, they were a necessary and under appreciated group of laborers. When Vietnamese refugees first arrived in the United States, they were a group of laborers who fled their country looking for better opportunity. They found those opportunities through hard manual labor. 
+
+Not only do Vietnamese and past Asian American workers share the experience of working hard jobs in a land far away from their homes, they also have simialar backgrounds and ways they arrived in the United States. Vietnamese refugees had to undergo perilous journeys at sea to potentially land in a country that would take them. A hundred years prior, Chinese workers also had to take their chances at navigating over the ocean to arrive at the United States where they had the potential to make money to send back to their homes. 
+
+
 ## Vietnamese Work Ethic
 
 After experiencing traumatic events in their home country, Vietnamese people came to the United States with a renewed vigor for coming out on top. They understood that they could not get economic security or position themselves for success without working hard. In the pursuit of success, Vietnamese refugees became well-known for their diligence and relentless work ethic.
