@@ -18,7 +18,7 @@ summary: How Vietnam War refugees adjust to life in New Mexico.
 
 
 
-## Patterns of Asian American Labor
+## Health Issues
 
 
 
