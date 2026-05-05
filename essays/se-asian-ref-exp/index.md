@@ -16,9 +16,7 @@ Originally, Life in New Mexico for Vietnamese refugees is full of hard work. If 
 
 Community building went very well for Vietnamese refugees in New Mexico. Vietnamese refugees from different parts of Southern Vietnam, quickly came together in New Mexico and created tight-knit communities that allowed for later Vietnamese refugees to more easily integrate to New Mexican society. 
 
-Vietnamese people would bond over shared experiences in Vietnam and during the war. This keeping together mentality made for a Vietnamese community to quickly develop in New Mexico. Once new Vietnamese people arrived in New Mexico from places like California, they were quickly welcomed and helped with getting a job and finding their families. For many Vietnamese families, it was not uncommon for them to give silverware, plates, and bowls to newly arrived or struggling Vietnamese families. The closeness of the Vietnamese community in places like Albuquerque and Santa Fe allowed for Vietnamese culture to remain alive and well thousands of miles away from home. 
-
-{% include images/figure.html
+Vietnamese people would bond over shared experiences in Vietnam and during the war. This keeping together mentality made for a Vietnamese community to quickly develop in New Mexico. Once new Vietnamese people arrived in New Mexico from places like California, they were quickly welcomed and helped with getting a job and finding their families. For many Vietnamese families, it was not uncommon for them to give silverware, plates, and bowls to newly arrived or struggling Vietnamese families. The closeness of the Vietnamese community in places like Albuquerque and Santa Fe allowed for Vietnamese culture to remain alive and well thousands of miles away from home. {% include images/figure.html
   image-path="images/vietnamese-adobe.jpeg"
   class="right"
   width="60%"
