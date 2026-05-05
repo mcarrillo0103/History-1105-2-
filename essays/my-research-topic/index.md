@@ -8,6 +8,14 @@ summary: How Vietnamese Refugees Made it to New Mexico.
 
 # The Vietnam War: The "Push Factor"
 
+{% include images/figure.html
+  image-path="assets/images/your-image.jpg"
+  class="center"
+  width="80%"
+  caption="A brief description of what's shown."
+  alt-text="Describe the image for screen readers"
+%}
+
 The Vietnam War was the climax of Western and Soviet tensions. Through a series of proxy wars, military funding, and economic competition, the Cold War would engulf the world from the time after WWII to the 1990's. Vietnam was of particular importance because of how disastrous it was for the United States military.
 
 The images of the United States losing this war with a much smaller nation is usually what is pushed in the news and throughout History, but the Vietnam War was unfortunately the reason thousands of Vietnamese natives were killed or displaced.
