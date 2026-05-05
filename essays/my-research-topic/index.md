@@ -1,5 +1,5 @@
 ---
-title: "Vietnamese Refugees in New Mexico: Introduction"
+title: "Vietnamese Refugees in New Mexico: The Bigger Picture"
 layout: scrollstory
 header-image: images/Vietnamese-People-Santa-Fe.jpg
 thumbnail: images/vietnamese-santafe-2.jpeg
@@ -11,7 +11,7 @@ summary: How Vietnamese Refugees Made it to New Mexico.
 {% include images/figure.html
   image-path="images/vietnamese-woman-with-kids-vietnam.jpg"
   class="center"
-  width="80%"
+  width="85%"
   caption="South Vietnam woman fleeing Vietnam with her kids."
   alt-text="Describe the image for screen readers"
 %}
