@@ -1,5 +1,5 @@
 ---
-title: "South East Asian Refugee Experience"
+title: "Vietnamese Refugee Experience"
 layout: scrollstory
 header-image: images/vietnamese-carne-asada.jpeg
 thumbnail: images/vietnamese-family-with-baby.jpg
