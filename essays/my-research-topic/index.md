@@ -3,7 +3,7 @@ title: "Vietnamese Refugees in New Mexico: Introduction"
 layout: scrollstory
 header-image: images/Vietnamese-People-Santa-Fe.jpg
 thumbnail: images/vietnamese-santafe-2.jpeg
-summary: Overview: How Vietnamese Refugees Made it to New Mexico.
+summary: How Vietnamese Refugees Made it to New Mexico.
 ---
 
 # The Vietnam War: The "Push Factor"
