@@ -44,18 +44,15 @@ Some of the first jobs that were immediately available for Vietnamese refugees w
 
 ## Health Issues and Challenges
 
-hkkhjk
+Being forcibly removed from their homeland led to many physical and mental conditions that would effect the way that Vietnamese people lived their lives in New Mexico. For one, fleeing a country that was the sight of major battles left many Vietnamese people with conditions like PTSD. These conditions, while managable, created some distinct differences between Vietnamese refugees and people who were already living in the United States before.
+
+Besides mental health, Vietnamese people were also unique in the way that they are approached for analysis and research. There are places in New Mexico where Vietnamese people gather to not only enjoy some time and spend money, but as a place to gather with those who have the same cultural background as themselves. Since many Vietnamese refugees stuck close to their communities, there were some interesting research studies that targeted them in their fun spaces.
 
 ## Vietnamese Perseverance and Identity
 
-As the Southwest changes—becoming more urban, more diverse, more connected to global food systems—what happens to the chile? Will it remain a marker of regional identity, or become just another ingredient?
+Overall, Vietnamese refugees are another story of perseverance. From a homeland full of war and violence, to a completely new place with different customs, languages, and experiences, Vietnamese people worked hard to create a new home away from their original one.
 
-The answer might be both. Chiles have always adapted. They adapted to every continent, every climate, every cuisine that adopted them. They adapted from wild plants to cultivated varieties to industrial agriculture to heirloom preservation. They've been spice, currency, medicine, ritual object, and comfort food.
-
-Maybe that adaptability is the real story. Not the origin in Mexico or the spread through the world or the obsession in New Mexico, but the fact that a plant can be shaped and reshaped by human culture while still remaining fundamentally itself.
-
-The heat remains. The flavor remains. The chile endures.
+Vietnamese people in New Mexico also have an interesting history because New Mexico is not the first location for many people who are looking for a place to live in the United States. New Mexico is different geographically and culturally to Vietnam, and yet thousands of Vietnamese people made it their homes after the fall of Saigon. Their experiences mirror the experiences of other Asian American groups from a hundred years before. Vietnamese people in New Mexico are not just a group of people who come for a better life, they are neighbors, community members, and family members and are a shining beacon of perseverance and cultural preservation.
 
 ---
 
-**Further exploration:** Taste different chile varieties if you can—fresh, roasted, dried. Visit a chile festival if you're in the Southwest during harvest season. Ask family members about their chile traditions. The story of chiles is also the story of regional identity, of cultural pride, and of how food carries history in its flavor.
