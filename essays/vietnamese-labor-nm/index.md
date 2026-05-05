@@ -13,6 +13,13 @@ When Vietnamese refugees first stepped off the boats onto the United States, the
 Once the first waves of Vietnamese refugees got adjusted to life in the United States, Vietnamese people began to create shops and businesses that signaled their permanent status in the United States. All across the United States, Vietnamese people began creating restaurants, stores, and salons. These family businesses created security for Vietnamese families across the United States and in New Mexico. 
 
 In New Mexico, Restaurants and salons are the most common businesses that Vietnamese people opened after moving to places like Albuquerque and Santa Fe. Foods like Pho and Banh Mi become common sellers across the state and create successful businesses for Vietnamese families. Beauty and nail salons also create security for Vietnamese families and become important cultural gathering places for Vietnamese women. The popularity of beauty salons create social spaces for Vietnamese women that make it easy to gather information and conduct research.
+{% include images/figure.html
+  image-path="images/maycafe-vietnamese-restaurant.jpg"
+  class="center"
+  width="60%"
+  caption="May Cafe a well known Vietnamese restaurant in Albuquerque."
+  alt-text="Describe the image for screen readers"
+%}
 
 ## Workplace Culture Building
 
@@ -36,6 +43,13 @@ Not only do Vietnamese and past Asian American workers share the experience of w
 After experiencing traumatic events in their home country, Vietnamese people came to the United States with a renewed vigor for coming out on top. They understood that they could not get economic security or position themselves for success without working hard. In the pursuit of success, Vietnamese refugees became well-known for their diligence and relentless work ethic.
 
 In some ways, Vietnamese embody the United States ideals. The hard work that Vietnamese refugees put into being successful and creating a good life for themselves and their families lines up well with the old saying: pull yourself up by the bootstraps. Working hard, being invested in achieving success, and creating something from nothing make it obvious why Vietnamese people were able to carve out their own section into society. 
+{% include images/figure.html
+  image-path="images/vietnamese-man-talking-to-people.jpeg"
+  class="center"
+  width="75"
+  caption="Vietnamese man talks to customers at his restaurant."
+  alt-text="Describe the image for screen readers"
+%}
 
 ---
 
