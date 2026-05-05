@@ -10,6 +10,8 @@ summary: How Vietnam War refugees adjust to life in New Mexico.
 
 Originally, Life in New Mexico for Vietnamese refugees is full of hard work. If they weren't working hard and trying to support their families, they were going to language classes and trying to understand how to work and live in a completely new place to them. Many Vietnamese people got assistance from the Catholic churches around the city. Although it would take some more time, Vietnamese people were trying to stay afloat and intergrate themselves into New Mexican culture.
 
+<iframe width="951" height="535" src="https://www.youtube.com/embed/vy_BaAb5JvA" title="Lan Sena, Vietnamese Refugees in Albuquerque" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## Community Building
 
 Community building went very well for Vietnamese refugees in New Mexico. Vietnamese refugees from different parts of Southern Vietnam, quickly came together in New Mexico and created tight-knit communities that allowed for later Vietnamese refugees to more easily integrate to New Mexican society. 
