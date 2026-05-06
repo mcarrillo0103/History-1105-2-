@@ -6,7 +6,7 @@ header-title: Essays
 
 # Essays
 
-This section aims to givenformation about the Vietnamese experience in New Mexico and answer the main question of this website: What was life like for Vietnamese refugees in New Mexico? Read a quick overview on why Vietnamese people moved to New Mexico, their experience in New Mexico, and what work looks like for them. Gain some insight into why thousands of Vietnamese refugees chose to move somewhere that has little geographic similarities to their home country.
+This section aims to given inform readers about the Vietnamese experience in New Mexico and answer the main question of this website: What was life like for Vietnamese refugees in New Mexico? Read a quick overview on why Vietnamese people moved to New Mexico, their experience in New Mexico, and what work looks like for them. Gain some insight into why thousands of Vietnamese refugees chose to move somewhere that has little geographic similarities to their home country.
 
 Some questions that the reader should keep in mind are: How are Vietnamese refugees experiences in New Mexico similar or different to other Asian Americans? What were some of the challenges Vietnamese refugees faced in the United States at the time? Why of all places, did thousands of Vietnamese refugees move to New Mexico?
 
